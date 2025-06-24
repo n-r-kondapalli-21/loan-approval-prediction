@@ -56,4 +56,8 @@ The project includes a web application built with Streamlit that allows users to
 │   ├── loan_data.csv       # Dataset for training and prediction
 │   └── label_encoder.joblib  # Saved label encoder
 └── README.md
+<<<<<<< HEAD
 ``` 
+=======
+``` 
+>>>>>>> a1133507 (Local updates before pulling remote changes)
